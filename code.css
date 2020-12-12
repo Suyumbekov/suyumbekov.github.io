@@ -24,6 +24,7 @@ body {
 }
 
 .wrap{
+  min-width: 845px;
   margin-bottom: 10px;
 }
 
